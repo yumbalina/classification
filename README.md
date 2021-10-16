@@ -6,6 +6,9 @@ Sınıflandırma Algoritmalarının Metodolojisi ve Kıyaslanması
  * [Modellerin Kıyaslanması ve En İyi Modelin Seçilmesi](https://github.com/yumbalina/classification/blob/main/SeedsDatasetClassification.ipynb)
  * [En İyi Modelin Optimizasyonu](https://github.com/yumbalina/classification/blob/main/SeedDataTuned.ipynb)
 
+## Adult Veri Seti İçin
+ * [Modellerin Kıyaslanması ve En İyi Model Seçildikten Sonra Parametrelerin Optimize Edilip Metriklerin İncelenmesi](https://github.com/yumbalina/classification/blob/main/AdultDataClassification.ipynb)
+
 ### Veri Setleri :
-  * https://archive-beta.ics.uci.edu/ml/datasets/adult
-  * https://archive-beta.ics.uci.edu/ml/datasets/seeds
+  * [Adult Verisi](https://archive-beta.ics.uci.edu/ml/datasets/adult)
+  * [Seeds Verisi])https://archive-beta.ics.uci.edu/ml/datasets/seeds)
