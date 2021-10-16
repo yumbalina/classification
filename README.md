@@ -11,4 +11,4 @@ Sınıflandırma Algoritmalarının Metodolojisi ve Kıyaslanması
 
 ### Veri Setleri :
   * [Adult Verisi](https://archive-beta.ics.uci.edu/ml/datasets/adult)
-  * [Seeds Verisi])https://archive-beta.ics.uci.edu/ml/datasets/seeds)
+  * [Seeds Verisi](https://archive-beta.ics.uci.edu/ml/datasets/seeds)
