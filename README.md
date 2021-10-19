@@ -1,6 +1,6 @@
 # Sınıflandırma  Projesi
 
-Sınıflandırma Algoritmalarının Metodolojisi ve Kıyaslanması
+Sınıflandırma Algoritmalarının Metodolojisi ve Başarılarının Kıyaslanması
 
 ## Tohum Tipleri Veri Seti İçin
  * [Modellerin Kıyaslanması ve En İyi Modelin Seçilmesi](https://github.com/yumbalina/classification/blob/main/SeedsDatasetClassification.ipynb)
