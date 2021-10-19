@@ -9,7 +9,7 @@ Sınıflandırma Algoritmalarının Metodolojisi ve Kıyaslanması
 ## Adult Veri Seti İçin
  * [Modellerin Kıyaslanması ve En İyi Model Seçildikten Sonra Parametrelerin Optimize Edilip Metriklerin İncelenmesi](https://github.com/yumbalina/classification/blob/main/AdultDataClassification.ipynb)
 
-### [Proje Raporu](https://github.com/yumbalina/classification/blob/main/Siniflandirma_Raporu.pdf)
+#   [Proje Raporu](https://github.com/yumbalina/classification/blob/main/Siniflandirma_Raporu.pdf)
 
 ### Veri Setleri :
   * [Adult Verisi](https://archive-beta.ics.uci.edu/ml/datasets/adult)
